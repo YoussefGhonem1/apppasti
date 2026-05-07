@@ -1,0 +1,327 @@
+{
+  "main": {
+    "home": "Home",
+    "orders": "Orders",
+    "special": "Special",
+    "shop": "Shop",
+    "profile": "Profile",
+    "settings": "Settings"
+  },
+  "chat": {
+    "title": "Chat Menu",
+    "must": "The order must first be approved by both side",
+    "map": "Address has been sent Click to open the map"
+  },
+  "language": {
+    "change_language" : "Change Language",
+    "language" : "Languages"
+  },
+  "branch": {
+    "title" : "Branches"
+  },
+  "home": {
+    "hi": "Hi ",
+    "title": "Choose Maintenance Service",
+    "body": "And get The Best Offer & Price",
+    "search": "Search"
+  },
+  "complain": {
+    "title": "Complains"
+  },
+  "notifications": {
+    "title": "Notifications"
+  },
+  "request": {
+    "title": "Request",
+    "sub_cat": "Choose Sub-Category",
+    "time": "Time (now)",
+    "img": "Image Loaded click to preview",
+    "image": "Pick Image",
+    "choose": "Choose Payment",
+    "area": "Choose Area",
+    "address": "Choose Address",
+    "payment": "Payment Type",
+    "order": "Order Summery",
+    "des": "Request Description",
+    "add_des": "Address Description",
+    "time_des": "Request Time",
+    "coupon": "Coupon Price",
+    "method": "Payment Method",
+    "camera": "Camera",
+    "pic": "Studio",
+    "delete_img": "Delete Image",
+    "video": "Video (optional)",
+    "delete_v": "Delete video"
+  },
+  "my_order": {
+    "title": "My Orders",
+    "re": "Re Order",
+    "rate": "Rate Order",
+    "id": "Order ID : ",
+    "rate_title": "How was your order with service providers"
+  },
+  "offer": {
+    "title": "Offers",
+    "price": "Price : ",
+    "offer": "Offer Time : ",
+    "time": "Available Time : ",
+    "des": "Description : ",
+    "more": "See More",
+    "less": "See Less",
+    "cash": "Total cash Price = ",
+    "online": "Total online Price = ",
+    "money": "The money is paid after the order is executed"
+  },
+  "sms" : {
+    "title" : "Activation code sent",
+    "hint" : "Activation code",
+    "in" : "Invalid code",
+    "re" : "Re-send code   ",
+    "wait" : "Wait a minute then try again later"
+  },
+  "profile": {
+    "title": "Profile",
+    "edit": "Edit Profile",
+    "change": "Change Password",
+    "edit_profile": "Edit Profile",
+    "delete_account": "Delete Account"
+  },
+  "settings": {
+    "title": "Settings",
+    "address": "Saved Address",
+    "lang": "Language",
+    "mode": "Mode",
+    "about": "About Us",
+    "policy": "Privacy & Policy",
+    "terms": "Terms & Conditions",
+    "join": "Join as service provider",
+    "dom": "About DOM",
+    "price": "Our Prices",
+    "share": "Share App",
+    "log_out": "Log Out",
+    "cancel" : "Cancel",
+    "wallet": "Wallet",
+    "change_lang": "Change Lang",
+    "change_mode": "Change Mode",
+    "balance": "Free Balance ",
+    "pending": "Pending Balance "
+  },
+  "address_info" : {
+    "title" : "Edit Address"
+  },
+  "join": {
+    "title": "Join",
+    "hint": "Number Of workers Default 1",
+    "nationality" : "Choose Nationality (optional)",
+    "nationality_join" : "Choose Nationality",
+    "upload": "Upload Image",
+    "img": "Image title"
+  },
+  "empty" : {
+    "empty" : "There is no data yet"
+  },
+  "change_pass" : {
+    "title" : "Change Password"
+  },
+  "special": {
+    "title": "Special Request",
+    "des": "Write your request here if you want us to contact you about your project",
+    "choose_cat": "Choose Category"
+  },
+  "validation" : {
+    "confirm_pass" : "Password does not match",
+    "old_pass" : "Enter old password",
+    "new_pass" : "Enter New password",
+    "valid_email" : "Enter valid email",
+    "terms" : "   Must accept Terms and Conditions",
+    "date" : "Choose the date",
+    "field" : "Enter this field",
+    "area" : "Choose the area",
+    "pass" : "Password length must be at least 6 char",
+    "phone" : "Enter valid phone",
+    "address": "Must Choose Location"
+  },
+  "order": {
+    "title": "Order",
+    "free": "Service Provider",
+    "rate": "Rate",
+    "price": "Price",
+    "discount": "Discount",
+    "taxes": "Dom Balance",
+    "total": "Total",
+    "method": "Payment method",
+    "time": "Order Time",
+    "address": "Address Description",
+    "order": "Order Summery",
+    "delete_order": "Delete Order",
+    "call": "Call now"
+  },
+  "snack_bar": {
+    "undo" : "Undo",
+    "login" : "Must Login",
+    "area" : "Must Update the Area",
+    "area_button" : "Update",
+    "phone" : "Wrong phone",
+    "try" : "Try again later",
+    "img": "Confirm Image"
+  },
+  "inputs" : {
+    "phone" : "Phone",
+    "sex": "Gender",
+    "pay": "Payment",
+    "another_phone" : "Phone 2 (optional)",
+    "nationality": "Nationality",
+    "email" : "E-mail",
+    "day": "Birth Day (optional)",
+    "coupon" : "Discount Coupon",
+    "com_coupon" : "Company Coupon",
+    "name" : "Full name",
+    "f-name": "First Name",
+    "l-name": "Last Name",
+    "pass" : "Password",
+    "old_pass" : "Old password",
+    "new_pass" : "New password",
+    "confirm_pass" : "Confirm Password",
+    "add_address_title" : "Add address title",
+    "title": "Title",
+    "street": "Street",
+    "building": "Building",
+    "floor": "Floor (optional)",
+    "description": "Description",
+    "cancel": "Reason For Cancel ",
+    "mark": "Landmark (optional)"
+  },
+  "add_address" : {
+    "here" : "Delivery address",
+    "location" : "Location"
+  },
+  "address" : {
+    "title" : "Addresses",
+    "update": "Update address",
+    "add": "Add address"
+  },
+  "area" : {
+    "title" : "Choose Area"
+  },
+  "choose_address": {
+    "title" : "Choose Addresses",
+    "locations" : "locations"
+  },
+  "buttons" : {
+    "complain" : "Send Complain",
+    "charge": "Charge",
+    "accept": "Accept",
+    "location": "Location",
+    "request": "Send Request",
+    "confirm": "Confirm Request",
+    "pick": "Pick",
+    "apply": "Apply",
+    "next" : "Next",
+    "verify": "Confirm",
+    "send" : "Send",
+    "back" : "Back",
+    "add_product" : "Add Products",
+    "save" : "Save",
+    "check_out" : "check Out",
+    "save_location" : "Save Location",
+    "login" : "Login",
+    "register" : "Register",
+    "open" : "Open",
+    "add_more" : "Add more",
+    "add_cart" : "Add to cart",
+    "log_out" : "Log Out",
+    "log_in" : "Log In",
+    "add_address" : "Add Address",
+    "edit_address" : "Save Address",
+    "delete_address" : "Delete Address",
+    "re_order": "Re order",
+    "delete": "Delete",
+    "cancel_order": "Cancel order",
+    "done": "Done",
+    "rate": "Rate",
+    "process": "Agreement",
+    "cancel": "Cancel",
+    "receive": "Receive",
+    "chat": "Chat With Service Provider",
+    "upload": "Upload"
+  },
+  "reset_pass": {
+    "title" : "Reset Password",
+    "login" : "Back To Login",
+    "sub_title1" : "Enter Your phone for send",
+    "sub_title2" : "Activation code",
+    "sub_title3" : "New Password"
+  },
+  "fire_base": {
+    "error1" : "Failed send sms please wait then try again",
+    "error2" : "Verification code is wrong"
+  },
+  "update": {
+    "title": "Update"
+  },
+  "login" : {
+    "reset" : "Forget the password ?",
+    "login" : "Login",
+    "register" : "Sign Up",
+    "guest": "Login Us a guest",
+    "must_login": "Must login to continue"
+  },
+  "register" : {
+    "must": "Must agree for conditions",
+    "agree": "Agree ",
+    "terms": "Terms & Conditions",
+    "policy": "Privacy & Policy"
+  },
+  "alert": {
+    "success" : "Success",
+    "operation" : "Successful operation",
+    "try" : "Try again later",
+    "failed" : "Failed"
+  },
+  "check_out": {
+    "title" : "Check Out",
+    "payment": "payment",
+    "cash": "Cash on delivery",
+    "visa": "VISA",
+    "master": "Master Card"
+  },
+  "products": {
+    "open": "Open",
+    "close": "Close",
+    "rate": "Rates",
+    "price": "Price",
+    "det": "Details",
+    "cat": "Categories",
+    "delete": "Delete from fav",
+    "add": "Add to Fav"
+  },
+  "rate": {
+    "title": "Rates",
+    "hint": "Comment (optional)"
+  },
+  "product": {
+    "add": "Adds",
+    "optional": "( Optional )",
+    "sure": "( compulsory )",
+    "active": "Restaurant not active"
+  },
+  "order_info": {
+    "title": "Order details",
+    "delivery": "Delivery info",
+    "delivery_price": "Delivery"
+  },
+  "net": {
+    "title": "Disconnected",
+    "no": "No Connection",
+    "cut": "Internet disconnected",
+    "sure": "Check your connection"
+  },
+  "errors": {
+    "main":"Under Maintenance",
+    "address": "Must Add Address Before"
+  },
+  "shop": {
+    "title": "Shop",
+    "cart": "Cart"
+  }
+}
